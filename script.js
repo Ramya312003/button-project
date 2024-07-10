@@ -1,0 +1,12 @@
+document.getElementById("Butterfly").addEventListener('click',function(){
+    document.getElementById("image").src="https://cdn.pixabay.com/photo/2023/07/19/19/14/monarch-butterfly-8137642_1280.png"
+});
+document.getElementById("Eggs").addEventListener('click',function(){
+    document.getElementById("image").src="https://as2.ftcdn.net/v2/jpg/03/32/73/39/1000_F_332733939_AFxJExx5rLQrA9upKEWNeqfkufRlUY5V.jpg"
+});
+document.getElementById("larva").addEventListener('click',function(){
+    document.getElementById("image").src="https://cdn.pixabay.com/photo/2023/08/07/14/08/caterpillar-8175147_1280.jpg" 
+});
+document.getElementById("pupa").addEventListener('click',function(){
+    document.getElementById("image").src="https://cdn.pixabay.com/photo/2022/12/15/16/33/gods-creation-7658099_1280.jpg" 
+});
